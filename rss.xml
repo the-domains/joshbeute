@@ -2,20 +2,13 @@
     <channel>
         <title><![CDATA[joshbeute]]></title>
         <description><![CDATA[joshbeute]]></description>
-        <link>https://thegrid.ai/joshbeute/</link>
+        <link>http://joshbeute.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 05:19:11 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/joshbeute/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[hello world.]]></title>
-            <description><![CDATA[<article><h1>hello world.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a928d10d-f136-4617-8ad6-71b5339bf060.png"></article>]]></description>
-            <link>https://thegrid.ai/joshbeute/hello-world/index.html</link>
-            <guid isPermaLink="false">10962643-7937-4d3d-afa7-28e60159729c</guid>
-            <pubDate>Sun, 10 Jan 2016 05:18:44 GMT</pubDate>
-        </item>
+        <lastBuildDate>Fri, 05 Feb 2016 00:37:09 GMT</lastBuildDate>
+        <atom:link href="http://joshbeute.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Nomad 95: Rob Bell - Millones Cajones and How to Find Your True Self]]></title>
-            <description><![CDATA[<article><h1>Nomad 95: Rob Bell - Millones Cajones and How to Find Your True Self</h1><p>As if building a church of 10,000+, producing an international bestselling DVD series, writing critically acclaimed bestselling books, producing a hugely popular podcast, and having his own TV show wasn't enough, Rob Bell has decided to write a novel. And much to the frustration of all us lesser talented mortals, it's really rather good!</p><img src="http://www.nomadpodcast.co.uk/wp-content/uploads/2015/04/nomad-300x300.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Nomad 95: Rob Bell - Millones Cajones and How to Find Your True Self</h1><p>As if building a church of 10,000+, producing an international bestselling DVD series, writing critically acclaimed bestselling books, producing a hugely popular podcast, and having his own TV show wasn't enough, Rob Bell has decided to write a novel. And much to the frustration of all us lesser talented mortals, it's really rather good!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/44837c83f86c0a359763075756c4caf1c76990ff.jpg"></article>]]></description>
             <link>http://www.nomadpodcast.co.uk/nomad-95-rob-bell-millones-cajones-and-how-to-find-your-true-self/?mc_cid=4ab8a96cdd&amp;mc_eid=515b0a3501</link>
             <guid isPermaLink="false">b6a85b66-de94-4bff-af28-76499f221550</guid>
             <pubDate>Sun, 10 Jan 2016 05:18:44 GMT</pubDate>
